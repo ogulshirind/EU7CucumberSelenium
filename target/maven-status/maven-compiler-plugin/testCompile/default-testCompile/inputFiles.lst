@@ -1,0 +1,16 @@
+/Users/olivetti/IdeaProjects/EU7CucumberSelenium/src/test/java/com/vytrack/runners/FailedTestRunner.java
+/Users/olivetti/IdeaProjects/EU7CucumberSelenium/src/test/java/com/vytrack/pages/DashboardPage.java
+/Users/olivetti/IdeaProjects/EU7CucumberSelenium/src/test/java/com/vytrack/utilities/ConfigurationReader.java
+/Users/olivetti/IdeaProjects/EU7CucumberSelenium/src/test/java/com/vytrack/pages/LoginPage.java
+/Users/olivetti/IdeaProjects/EU7CucumberSelenium/src/test/java/com/vytrack/step_definitions/NavigationMenuStepDefs.java
+/Users/olivetti/IdeaProjects/EU7CucumberSelenium/src/test/java/com/vytrack/pages/CreateCalendarEventsPage.java
+/Users/olivetti/IdeaProjects/EU7CucumberSelenium/src/test/java/com/vytrack/pages/ContactsPage.java
+/Users/olivetti/IdeaProjects/EU7CucumberSelenium/src/test/java/com/vytrack/pages/CalendarEventsPage.java
+/Users/olivetti/IdeaProjects/EU7CucumberSelenium/src/test/java/com/vytrack/step_definitions/ContactsStepDefs.java
+/Users/olivetti/IdeaProjects/EU7CucumberSelenium/src/test/java/com/vytrack/utilities/BrowserUtils.java
+/Users/olivetti/IdeaProjects/EU7CucumberSelenium/src/test/java/com/vytrack/pages/ContactInfoPage.java
+/Users/olivetti/IdeaProjects/EU7CucumberSelenium/src/test/java/com/vytrack/utilities/Driver.java
+/Users/olivetti/IdeaProjects/EU7CucumberSelenium/src/test/java/com/vytrack/step_definitions/LoginStepDefs.java
+/Users/olivetti/IdeaProjects/EU7CucumberSelenium/src/test/java/com/vytrack/step_definitions/Hooks.java
+/Users/olivetti/IdeaProjects/EU7CucumberSelenium/src/test/java/com/vytrack/pages/BasePage.java
+/Users/olivetti/IdeaProjects/EU7CucumberSelenium/src/test/java/com/vytrack/runners/CukesRunner.java
